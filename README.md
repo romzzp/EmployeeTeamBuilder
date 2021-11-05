@@ -22,7 +22,7 @@ Install all the required npm modules such as: inquirer, jest and email-validator
 Any questions regarding this project can be directed at me via:
 
 - [Github Profile](https://github.com/romzzp)
-- [Email Address](romzz.patel@gmail.com)
+- Email: romzz.patel@gmail.com
 
 # Github:
 
